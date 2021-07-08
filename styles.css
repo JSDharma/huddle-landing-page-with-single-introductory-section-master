@@ -17,6 +17,7 @@ body{
     font-family: 'Poppins', sans-serif;
     font-weight: 600;
   }
+
   
   .text-paragraph {
     font-family: 'Open Sans', sans-serif;
@@ -25,6 +26,15 @@ body{
      
 }
   
+
+header{
+    padding-left : 5%;
+    margin-top: 20px;
+}
+
+.header-image{
+    width : 200px;
+}
 
 .row {
     margin-top: 30px;
